@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 4d1532fef51c65447a7fa1b41fd007dc
+timeCreated: 1506663883
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CHR_Head
+    100002: CHR_HeadJAW
+    100004: CHR_LAnkle
+    100006: CHR_LArmCollar
+    100008: CHR_LArmDigit11
+    100010: CHR_LArmDigit12
+    100012: CHR_LArmDigit13
+    100014: CHR_LArmDigit21
+    100016: CHR_LArmDigit22
+    100018: CHR_LArmDigit23
+    100020: CHR_LArmDigit31
+    100022: CHR_LArmDigit32
+    100024: CHR_LArmDigit33
+    100026: CHR_LArmDigit41
+    100028: CHR_LArmDigit42
+    100030: CHR_LArmDigit43
+    100032: CHR_LArmDigit51
+    100034: CHR_LArmDigit52
+    100036: CHR_LArmDigit53
+    100038: CHR_LArmForeArm
+    100040: CHR_LArmPalm
+    100042: CHR_LArmUpper
+    100044: CHR_LCalf
+    100046: CHR_LThigh
+    100048: CHR_LToe1
+    100050: CHR_Neck
+    100052: CHR_RAnkle
+    100054: CHR_RArmCollar
+    100056: CHR_RArmDigit11
+    100058: CHR_RArmDigit12
+    100060: CHR_RArmDigit13
+    100062: CHR_RArmDigit21
+    100064: CHR_RArmDigit22
+    100066: CHR_RArmDigit23
+    100068: CHR_RArmDigit31
+    100070: CHR_RArmDigit32
+    100072: CHR_RArmDigit33
+    100074: CHR_RArmDigit41
+    100076: CHR_RArmDigit42
+    100078: CHR_RArmDigit43
+    100080: CHR_RArmDigit51
+    100082: CHR_RArmDigit52
+    100084: CHR_RArmDigit53
+    100086: CHR_RArmForeArm
+    100088: CHR_RArmPalm
+    100090: CHR_RArmUpper
+    100092: CHR_RCalf
+    100094: CHR_Ribcage
+    100096: CHR_RibcageBoob_L
+    100098: CHR_RibcageBoob_R
+    100100: CHR_RThigh
+    100102: CHR_RToe1
+    100104: CHR_Spine1
+    100106: CHR_Spine2
+    100108: CHR_Spine3
+    100110: Cinema4D_Editor
+    100112: Collision_Attach
+    100114: Root
+    100116: //RootNode
+    400000: CHR_Head
+    400002: CHR_HeadJAW
+    400004: CHR_LAnkle
+    400006: CHR_LArmCollar
+    400008: CHR_LArmDigit11
+    400010: CHR_LArmDigit12
+    400012: CHR_LArmDigit13
+    400014: CHR_LArmDigit21
+    400016: CHR_LArmDigit22
+    400018: CHR_LArmDigit23
+    400020: CHR_LArmDigit31
+    400022: CHR_LArmDigit32
+    400024: CHR_LArmDigit33
+    400026: CHR_LArmDigit41
+    400028: CHR_LArmDigit42
+    400030: CHR_LArmDigit43
+    400032: CHR_LArmDigit51
+    400034: CHR_LArmDigit52
+    400036: CHR_LArmDigit53
+    400038: CHR_LArmForeArm
+    400040: CHR_LArmPalm
+    400042: CHR_LArmUpper
+    400044: CHR_LCalf
+    400046: CHR_LThigh
+    400048: CHR_LToe1
+    400050: CHR_Neck
+    400052: CHR_RAnkle
+    400054: CHR_RArmCollar
+    400056: CHR_RArmDigit11
+    400058: CHR_RArmDigit12
+    400060: CHR_RArmDigit13
+    400062: CHR_RArmDigit21
+    400064: CHR_RArmDigit22
+    400066: CHR_RArmDigit23
+    400068: CHR_RArmDigit31
+    400070: CHR_RArmDigit32
+    400072: CHR_RArmDigit33
+    400074: CHR_RArmDigit41
+    400076: CHR_RArmDigit42
+    400078: CHR_RArmDigit43
+    400080: CHR_RArmDigit51
+    400082: CHR_RArmDigit52
+    400084: CHR_RArmDigit53
+    400086: CHR_RArmForeArm
+    400088: CHR_RArmPalm
+    400090: CHR_RArmUpper
+    400092: CHR_RCalf
+    400094: CHR_Ribcage
+    400096: CHR_RibcageBoob_L
+    400098: CHR_RibcageBoob_R
+    400100: CHR_RThigh
+    400102: CHR_RToe1
+    400104: CHR_Spine1
+    400106: CHR_Spine2
+    400108: CHR_Spine3
+    400110: Cinema4D_Editor
+    400112: Collision_Attach
+    400114: Root
+    400116: //RootNode
+    7400000: run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: WalkSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 2
+            time: 0.0009498596
+            value: 0.16522217
+            inSlope: 2
+            outSlope: 2
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.02
+            value: 0
+            inSlope: 1.9475632
+            outSlope: 1.9475632
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.06644008
+            value: 0.98316294
+            inSlope: -0.9237149
+            outSlope: -0.9237149
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.11
+            value: 0
+            inSlope: 1.7942488
+            outSlope: 1.7942488
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.16494714
+            value: 0.98183453
+            inSlope: -0.87373894
+            outSlope: -0.87373894
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.22
+            value: 0
+            inSlope: 1.7204136
+            outSlope: 1.7204136
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.26657623
+            value: 0.978117
+            inSlope: -0.87564117
+            outSlope: -0.87564117
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.32
+            value: 0
+            inSlope: 1.7841905
+            outSlope: 1.7841905
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.3646692
+            value: 0.98165816
+            inSlope: -0.9352004
+            outSlope: -0.9352004
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.41
+            value: 0
+            inSlope: 1.9551814
+            outSlope: 1.9551814
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.46195623
+            value: 0.98276925
+            inSlope: -1.0444993
+            outSlope: -1.0444993
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.51413417
+            value: 0
+            inSlope: 2.2359939
+            outSlope: 2.2359939
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.56833684
+            value: 0.9804056
+            inSlope: -1.2336718
+            outSlope: -1.2336718
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.62
+            value: 0
+            inSlope: 2.688393
+            outSlope: 2.688393
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.666541
+            value: 0.97817767
+            inSlope: -1.3403037
+            outSlope: -1.3403037
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.7158192
+            value: 0
+            inSlope: 3.4676492
+            outSlope: 3.4676492
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.75964576
+            value: 0.9762525
+            inSlope: -1.5770644
+            outSlope: -1.5770644
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.8118154
+            value: 0
+            inSlope: 4.692823
+            outSlope: 4.692823
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.85576063
+            value: 0.97651875
+            inSlope: -2.8423452
+            outSlope: -2.8423452
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.9137477
+            value: 0
+            inSlope: 6.572306
+            outSlope: 6.572306
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 0.95879567
+            value: 0.9695937
+            inSlope: 13.263822
+            outSlope: 13.263822
+            tangentMode: 0
+          - serializedVersion: 2
+            time: 1
+            value: 0.15776825
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/CHR_LThigh
+        weight: 1
+      - path: Root/CHR_LThigh/CHR_LCalf
+        weight: 1
+      - path: Root/CHR_LThigh/CHR_LCalf/CHR_LAnkle
+        weight: 1
+      - path: Root/CHR_LThigh/CHR_LCalf/CHR_LAnkle/CHR_LToe1
+        weight: 1
+      - path: Root/CHR_RThigh
+        weight: 1
+      - path: Root/CHR_RThigh/CHR_RCalf
+        weight: 1
+      - path: Root/CHR_RThigh/CHR_RCalf/CHR_RAnkle
+        weight: 1
+      - path: Root/CHR_RThigh/CHR_RCalf/CHR_RAnkle/CHR_RToe1
+        weight: 1
+      - path: Root/CHR_Spine1
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit11
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit11/CHR_LArmDigit12
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit11/CHR_LArmDigit12/CHR_LArmDigit13
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit21
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit21/CHR_LArmDigit22
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit21/CHR_LArmDigit22/CHR_LArmDigit23
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit31
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit31/CHR_LArmDigit32
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit31/CHR_LArmDigit32/CHR_LArmDigit33
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit41
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit41/CHR_LArmDigit42
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit41/CHR_LArmDigit42/CHR_LArmDigit43
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit51
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit51/CHR_LArmDigit52
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_LArmCollar/CHR_LArmUpper/CHR_LArmForeArm/CHR_LArmPalm/CHR_LArmDigit51/CHR_LArmDigit52/CHR_LArmDigit53
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_Neck
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_Neck/CHR_Head
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_Neck/CHR_Head/CHR_HeadJAW
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit11
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit11/CHR_RArmDigit12
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit11/CHR_RArmDigit12/CHR_RArmDigit13
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit21
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit21/CHR_RArmDigit22
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit21/CHR_RArmDigit22/CHR_RArmDigit23
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit31
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit31/CHR_RArmDigit32
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit31/CHR_RArmDigit32/CHR_RArmDigit33
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit41
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit41/CHR_RArmDigit42
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit41/CHR_RArmDigit42/CHR_RArmDigit43
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit51
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit51/CHR_RArmDigit52
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RArmCollar/CHR_RArmUpper/CHR_RArmForeArm/CHR_RArmPalm/CHR_RArmDigit51/CHR_RArmDigit52/CHR_RArmDigit53
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RibcageBoob_L
+        weight: 1
+      - path: Root/CHR_Spine1/CHR_Spine2/CHR_Spine3/CHR_Ribcage/CHR_RibcageBoob_R
+        weight: 1
+      - path: Root/Collision_Attach
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 593c0390a49d0ea4ea8bf50cc85c67b4
+timeCreated: 1505400945
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 9mm_bullet
+    100002: 9mm_bullet01
+    100004: 9mm_Gun
+    100006: 9mm_hammer
+    100008: 9mm_Mag
+    100010: 9mm_magrelease
+    100012: 9mm_Shell
+    100014: 9mm_slide
+    100016: 9mm_trigger
+    100018: 9mm_Trip
+    100020: Cinema4D_Editor
+    100022: Hands_Hub01
+    100024: Hands_LArm1
+    100026: Hands_LArm2
+    100028: Hands_LArmCollarbone
+    100030: Hands_LArmFinger11
+    100032: Hands_LArmFinger12
+    100034: Hands_LArmFinger13
+    100036: Hands_LArmFinger21
+    100038: Hands_LArmFinger22
+    100040: Hands_LArmFinger23
+    100042: Hands_LArmFinger31
+    100044: Hands_LArmFinger32
+    100046: Hands_LArmFinger33
+    100048: Hands_LArmFinger34
+    100050: Hands_LArmFinger41
+    100052: Hands_LArmFinger42
+    100054: Hands_LArmFinger43
+    100056: Hands_LArmFinger44
+    100058: Hands_LArmPalm
+    100060: Hands_LArmThumb1
+    100062: Hands_LArmThumb2
+    100064: Hands_LArmThumb3
+    100066: Hands_LPalm_morph
+    100068: Hands_LSleeve
+    100070: Hands_Lwrist
+    100072: Hands_R_Sleeve
+    100074: Hands_R_wrist
+    100076: Hands_RArm1
+    100078: Hands_RArm2
+    100080: Hands_RArmCollarbone
+    100082: Hands_RArmFinger11
+    100084: Hands_RArmFinger12
+    100086: Hands_RArmFinger13
+    100088: Hands_RArmFinger21
+    100090: Hands_RArmFinger22
+    100092: Hands_RArmFinger23
+    100094: Hands_RArmFinger31
+    100096: Hands_RArmFinger32
+    100098: Hands_RArmFinger33
+    100100: Hands_RArmFinger34
+    100102: Hands_RArmFinger41
+    100104: Hands_RArmFinger42
+    100106: Hands_RArmFinger43
+    100108: Hands_RArmFinger44
+    100110: Hands_RArmPalm
+    100112: Hands_RArmThumb1
+    100114: Hands_RArmThumb2
+    100116: Hands_RArmThumb3
+    100118: Hands_RPalm_morph
+    100120: //RootNode
+    100122: LightBone
+    100124: Root
+    100126: Shell_eject
+    100128: tip
+    400000: 9mm_bullet
+    400002: 9mm_bullet01
+    400004: 9mm_Gun
+    400006: 9mm_hammer
+    400008: 9mm_Mag
+    400010: 9mm_magrelease
+    400012: 9mm_Shell
+    400014: 9mm_slide
+    400016: 9mm_trigger
+    400018: 9mm_Trip
+    400020: Cinema4D_Editor
+    400022: Hands_Hub01
+    400024: Hands_LArm1
+    400026: Hands_LArm2
+    400028: Hands_LArmCollarbone
+    400030: Hands_LArmFinger11
+    400032: Hands_LArmFinger12
+    400034: Hands_LArmFinger13
+    400036: Hands_LArmFinger21
+    400038: Hands_LArmFinger22
+    400040: Hands_LArmFinger23
+    400042: Hands_LArmFinger31
+    400044: Hands_LArmFinger32
+    400046: Hands_LArmFinger33
+    400048: Hands_LArmFinger34
+    400050: Hands_LArmFinger41
+    400052: Hands_LArmFinger42
+    400054: Hands_LArmFinger43
+    400056: Hands_LArmFinger44
+    400058: Hands_LArmPalm
+    400060: Hands_LArmThumb1
+    400062: Hands_LArmThumb2
+    400064: Hands_LArmThumb3
+    400066: Hands_LPalm_morph
+    400068: Hands_LSleeve
+    400070: Hands_Lwrist
+    400072: Hands_R_Sleeve
+    400074: Hands_R_wrist
+    400076: Hands_RArm1
+    400078: Hands_RArm2
+    400080: Hands_RArmCollarbone
+    400082: Hands_RArmFinger11
+    400084: Hands_RArmFinger12
+    400086: Hands_RArmFinger13
+    400088: Hands_RArmFinger21
+    400090: Hands_RArmFinger22
+    400092: Hands_RArmFinger23
+    400094: Hands_RArmFinger31
+    400096: Hands_RArmFinger32
+    400098: Hands_RArmFinger33
+    400100: Hands_RArmFinger34
+    400102: Hands_RArmFinger41
+    400104: Hands_RArmFinger42
+    400106: Hands_RArmFinger43
+    400108: Hands_RArmFinger44
+    400110: Hands_RArmPalm
+    400112: Hands_RArmThumb1
+    400114: Hands_RArmThumb2
+    400116: Hands_RArmThumb3
+    400118: Hands_RPalm_morph
+    400120: //RootNode
+    400122: LightBone
+    400124: Root
+    400126: Shell_eject
+    400128: tip
+    4300000: 9mm_Trip
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: 9mm_Trip
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

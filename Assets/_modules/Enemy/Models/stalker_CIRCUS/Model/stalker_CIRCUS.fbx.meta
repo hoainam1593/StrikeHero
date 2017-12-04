@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 3166eabd4c4e76940b9c77ad24bd99b9
+timeCreated: 1506252534
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CHR_Head
+    100002: CHR_HeadJAW
+    100004: CHR_LAnkle
+    100006: CHR_LArmCollar
+    100008: CHR_LArmDigit11
+    100010: CHR_LArmDigit12
+    100012: CHR_LArmDigit13
+    100014: CHR_LArmDigit21
+    100016: CHR_LArmDigit22
+    100018: CHR_LArmDigit23
+    100020: CHR_LArmDigit31
+    100022: CHR_LArmDigit32
+    100024: CHR_LArmDigit33
+    100026: CHR_LArmDigit41
+    100028: CHR_LArmDigit42
+    100030: CHR_LArmDigit43
+    100032: CHR_LArmDigit51
+    100034: CHR_LArmDigit52
+    100036: CHR_LArmDigit53
+    100038: CHR_LArmForeArm
+    100040: CHR_LArmPalm
+    100042: CHR_LArmUpper
+    100044: CHR_LCalf
+    100046: CHR_LThigh
+    100048: CHR_LToe1
+    100050: CHR_Neck
+    100052: CHR_RAnkle
+    100054: CHR_RArmCollar
+    100056: CHR_RArmDigit11
+    100058: CHR_RArmDigit12
+    100060: CHR_RArmDigit13
+    100062: CHR_RArmDigit21
+    100064: CHR_RArmDigit22
+    100066: CHR_RArmDigit23
+    100068: CHR_RArmDigit31
+    100070: CHR_RArmDigit32
+    100072: CHR_RArmDigit33
+    100074: CHR_RArmDigit41
+    100076: CHR_RArmDigit42
+    100078: CHR_RArmDigit43
+    100080: CHR_RArmDigit51
+    100082: CHR_RArmDigit52
+    100084: CHR_RArmDigit53
+    100086: CHR_RArmForeArm
+    100088: CHR_RArmPalm
+    100090: CHR_RArmUpper
+    100092: CHR_RCalf
+    100094: CHR_Ribcage
+    100096: CHR_RibcageBoob_L
+    100098: CHR_RibcageBoob_R
+    100100: CHR_RThigh
+    100102: CHR_RToe1
+    100104: CHR_Spine1
+    100106: CHR_Spine2
+    100108: CHR_Spine3
+    100110: Cinema4D_Editor
+    100112: Collision_Attach
+    100114: Root
+    100116: stalker_CIRCUS
+    100118: //RootNode
+    400000: CHR_Head
+    400002: CHR_HeadJAW
+    400004: CHR_LAnkle
+    400006: CHR_LArmCollar
+    400008: CHR_LArmDigit11
+    400010: CHR_LArmDigit12
+    400012: CHR_LArmDigit13
+    400014: CHR_LArmDigit21
+    400016: CHR_LArmDigit22
+    400018: CHR_LArmDigit23
+    400020: CHR_LArmDigit31
+    400022: CHR_LArmDigit32
+    400024: CHR_LArmDigit33
+    400026: CHR_LArmDigit41
+    400028: CHR_LArmDigit42
+    400030: CHR_LArmDigit43
+    400032: CHR_LArmDigit51
+    400034: CHR_LArmDigit52
+    400036: CHR_LArmDigit53
+    400038: CHR_LArmForeArm
+    400040: CHR_LArmPalm
+    400042: CHR_LArmUpper
+    400044: CHR_LCalf
+    400046: CHR_LThigh
+    400048: CHR_LToe1
+    400050: CHR_Neck
+    400052: CHR_RAnkle
+    400054: CHR_RArmCollar
+    400056: CHR_RArmDigit11
+    400058: CHR_RArmDigit12
+    400060: CHR_RArmDigit13
+    400062: CHR_RArmDigit21
+    400064: CHR_RArmDigit22
+    400066: CHR_RArmDigit23
+    400068: CHR_RArmDigit31
+    400070: CHR_RArmDigit32
+    400072: CHR_RArmDigit33
+    400074: CHR_RArmDigit41
+    400076: CHR_RArmDigit42
+    400078: CHR_RArmDigit43
+    400080: CHR_RArmDigit51
+    400082: CHR_RArmDigit52
+    400084: CHR_RArmDigit53
+    400086: CHR_RArmForeArm
+    400088: CHR_RArmPalm
+    400090: CHR_RArmUpper
+    400092: CHR_RCalf
+    400094: CHR_Ribcage
+    400096: CHR_RibcageBoob_L
+    400098: CHR_RibcageBoob_R
+    400100: CHR_RThigh
+    400102: CHR_RToe1
+    400104: CHR_Spine1
+    400106: CHR_Spine2
+    400108: CHR_Spine3
+    400110: Cinema4D_Editor
+    400112: Collision_Attach
+    400114: Root
+    400116: stalker_CIRCUS
+    400118: //RootNode
+    4300000: stalker_CIRCUS
+    9500000: //RootNode
+    13700000: stalker_CIRCUS
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
